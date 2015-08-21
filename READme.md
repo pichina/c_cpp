@@ -1,0 +1,2 @@
+面试遇到的问题
+statictest.c static变量static函数访问
